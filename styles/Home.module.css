@@ -10,7 +10,11 @@
 
 .mainImageContainer {
   position: relative;
+<<<<<<< HEAD
   margin: 2rem;
+=======
+  margin: 2rem 0;
+>>>>>>> d1601906f4cab6b9d6c8a8431940ecfb9f5bcb21
   width: 100%;
   aspect-ratio: 12/7;
 }
@@ -23,4 +27,8 @@
 
 .inputForm {
   width: 100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d1601906f4cab6b9d6c8a8431940ecfb9f5bcb21
